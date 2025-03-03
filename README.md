@@ -3,7 +3,7 @@
 
 ![image](https://github.com/user-attachments/assets/37f6dea0-4bd6-4a20-a963-d407cf434418)
 
-<img src="[image_url_or_path](https://github.com/user-attachments/assets/c59b1ff7-29b8-49f9-9995-64154eb18427)" style="width:50%;" / >
+<img src="https://github.com/user-attachments/assets/c59b1ff7-29b8-49f9-9995-64154eb18427" style="width:50%;" >
 
 
 A real-time language practice platform inspired by Duolingo's learning approach combined with Pramp's peer-to-peer interview format. Practice Spanish conversation with peers in structured, timed sessions! Peers alternate between being question askers and answerers in their targeted language, and askers can mark correct or incorrect for scoring. (Spanish Default for now).
