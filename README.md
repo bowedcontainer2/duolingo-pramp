@@ -20,6 +20,7 @@ Here is my rough mvp of what this could look like! I used webRTC and peerJS to c
 - [ ] Add a database to save session data, also to populate a question bank. (I just have some text Spanish questions for now)
 - [ ] Friend feature to connect with friends and practice together (?)
 - [ ] History feature to look back on previous sessions and scores
+- [ ] Better flesh out peer to peer connections. (Currently running on a mock instance of a WebRTC peer connection for dev testing!)
 
 
 
@@ -37,6 +38,8 @@ Here is my rough mvp of what this could look like! I used webRTC and peerJS to c
 4. Give immediate feedback on performance
 
 ## 🚀 Getting Started
+
+The current build allows you to spawn in a mock peer WebRTC connection to simulate a peer in the call. The rolls of asking and answering questions alternates each round, but there is a role switching button for dev demo.
 
 Nav to the client code
 `cd spanish-practice-app`
