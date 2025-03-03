@@ -3,9 +3,11 @@
 
 ![image](https://github.com/user-attachments/assets/37f6dea0-4bd6-4a20-a963-d407cf434418)
 
+A real-time language practice platform inspired by Duolingo's learning approach combined with Pramp's peer-to-peer interview format. Practice Spanish conversation with peers in structured, timed sessions! Peers alternate between being question askers and answerers in their targeted language, and askers can mark correct or incorrect for scoring. (Spanish Default for now).
 
 
-A real-time language practice platform inspired by Duolingo's learning approach combined with Pramp's peer-to-peer interview format. Practice Spanish conversation with peers in structured, timed sessions. This project was inspired by me job hunting for a software engineering position and using Pramp/Exponent to practice for interviews. I also have been pretty competitive with friends in Duolingo recently. 
+## Inspiration
+This project was inspired by me job hunting for a software engineering position and using Pramp/Exponent to practice for interviews. I also have been pretty competitive with friends in Duolingo recently. 
 
 I visited Guatemala with my family, and in a coffee shop in Antigua, I saw tourists trying to practice micro interactions to order their coffee, and I got the idea to create a sort of pramp/duolingo hybrid where the pressure and accountability of a face to face video call is combined with the quick and segmented recitation formatting that Duolingo has.
 
