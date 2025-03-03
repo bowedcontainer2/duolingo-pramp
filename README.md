@@ -6,11 +6,11 @@ A real-time language practice platform inspired by Duolingo's learning approach 
 
 ## Todo list:
 
-[ ] Add time boxing to answer questions
-[ ] Add a scheduler to connect users at booked timeslots, like pramp/exponent
-[ ] Add a database to save session data, also to populate a question bank. (I just have some text spanish questions for now)
-[ ] Friend feature to connect with friends and practice together(?)
-[ ] History feature to look back on previous sessions and scores
+[] Add time boxing to answer questions
+[] Add a scheduler to connect users at booked timeslots, like pramp/exponent
+[] Add a database to save session data, also to populate a question bank. (I just have some text spanish questions for now)
+[] Friend feature to connect with friends and practice together(?)
+[] History feature to look back on previous sessions and scores
 
 
 
